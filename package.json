@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "scripts": {
+        "build": "bash ./scripts/build.sh",
+        "after": "bash ./scripts/after.sh"
+    },
+    "devDependencies": {
+        "cross-env": "^5.1"
+    }
+}
